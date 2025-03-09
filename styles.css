@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #2e2b2b;
+    background-color: #000000;
     background-image: url('Screenshot 2025-03-08 at 6.21.43 PM.png');
     background-position: center, top left, bottom right;
     background-size: cover, 50%, 30%;
